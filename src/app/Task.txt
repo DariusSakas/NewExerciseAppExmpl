@@ -1,0 +1,6 @@
+1. Create new angular project.
+2. Create 2 separate components.
+3. Show all components in the UI.
+4. Add  few variables. (Including array)
+5. Add a function of few.
+6. Use if, for directives and event binding to invoke method you created.

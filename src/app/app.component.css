@@ -1,0 +1,7 @@
+.image {
+  height: 40em;
+  background-size: cover;
+  width: auto;
+  background-image: url("/NewExerciseApp/src/assets/Autumn-nature-backgrounds-wallpaper.jpg");
+  background-position: 50% 50%;
+}
